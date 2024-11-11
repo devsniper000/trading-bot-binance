@@ -1,16 +1,6 @@
 # binance-trade-bot
 > Automated cryptocurrency trading bot
 
-![github](https://img.shields.io/github/workflow/status/edeng23/binance-trade-bot/binance-trade-bot)
-![docker](https://img.shields.io/docker/pulls/edeng23/binance-trade-bot)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/edeng23/binance-trade-bot)
-
-[![Deploy to DO](https://mp-assets1.sfo2.digitaloceanspaces.com/deploy-to-do/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/coinbookbrasil/binance-trade-bot/tree/master&refcode=a076ff7a9a6a)
-
-
-## Follow me on Twitter :)
-
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%400xedeng)](https://twitter.com/0xedeng)
 
 ## Why?
 
@@ -110,10 +100,6 @@ If you are interested in running a Telegram bot, more information can be found a
 python -m binance_trade_bot
 ```
 
-### Docker
-
-The official image is available [here](https://hub.docker.com/r/edeng23/binance-trade-bot) and will update on every new change.
-
 ```shell
 docker-compose up
 ```
@@ -147,25 +133,13 @@ pre-commit install
 The scouting algorithm is unlikely to be changed. If you'd like to contribute an alternative
 method, [add a new strategy](binance_trade_bot/strategies/README.md).
 
-## Related Projects
-
-Thanks to a group of talented developers, there is now a [Telegram bot for remotely managing this project](https://github.com/lorcalhost/BTB-manager-telegram).
-
-## Support the Project
-
-<a href="https://www.buymeacoffee.com/edeng" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
 ## Join the Chat
 
--   **Discord**: [Invite Link](https://discord.gg/m4TNaxreCN)
+-   **Discord**: [Invite Link](discord:devsniper007)
 
 ## FAQ
 
 A list of answers to what seem to be the most frequently asked questions can be found in our discord server, in the corresponding channel.
-
-<p align="center">
-  <img src = "https://usercontent2.hubstatic.com/6061829.jpg">
-</p>
 
 ## Disclaimer
 
